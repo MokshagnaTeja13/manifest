@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/MokshagnaTeja13" name="origin">
+  
+  <default remote="origin" sync-j="4" revision="master"/>
+  <project name="git clone "ssh://mgande@gerrit1.harman.com:29418/int_tpf/nets-ioc-broker" path="~/new"/>
+  <project name="https://github.com/COVESA/capicxx-core-runtime" path="~/new"/>
+  
+ </manifest>
+ 
